@@ -1,4 +1,4 @@
-//programda ilk çalışan yer bir kere çalışır.
+//programda ilk çalışan, yer bir kere çalışır.
 int f(){ //int değer dönecek
   return 12;
 }
@@ -15,14 +15,13 @@ void f2(){
 boolean deger;
   
 void setup() {
-  // put your setup code here, to run once:
   
 
 }
 //loop sürekli çalışan yerdir.
 void loop() {
-  // put your main code here, to run repeatedly:
+
 
 }
-// c'de exe dosyası üretiyor arduino'da hex dosyası oluşuyor.
-// mikrodenetleyici arduino da var hafıza ram ve haberleşmek için çevre bilirimleri mevcut.
+// c exe dosyası üretiyor, arduino'da hex dosyası oluşuyor.
+// arduino'da mikrodenetleyici var hafıza, ram ve haberleşmek için çevre birimleri mevcut.
