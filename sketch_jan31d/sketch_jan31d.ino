@@ -14,6 +14,7 @@ for (char i=2;i<9;i++){
 }
 
 void loop() {
+  
 // 0 için
 for(char i=2;i<7;i++){
   digitalWrite(i, LOW);
